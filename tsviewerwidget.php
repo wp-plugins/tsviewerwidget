@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: TS-Viewer Widget
-Plugin URI: http://gehirnfurz.com/2007/09/25/ts-viewer/
-Description: Adds a sidebar widget to display Guido van Biemen's (aka MrGuide@NL) Teamspeak Display Preview Release 3 (GPL) and AjaxCore 1.2.2 from http://ajaxcore.sourceforge.net
+Plugin URI: http://www.gehirnfurz.com/tsviewerwidget/
+Description: Adds a sidebar widget to display Guido van Biemen's (aka MrGuide@NL) Teamspeak Display Preview Release 3 (GPL) and uses AjaxCore 1.2.2 from http://ajaxcore.sourceforge.net to refresh it.
 Author: Marc Kemper, mkemper@marc-kemper.com
 Author URI: http://gehirnfurz.com
-Version: 1.1 (beta)
+Version: 1.1
 Date: 2007, September, 26
 */
 
