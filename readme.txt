@@ -10,7 +10,7 @@ Show your teamspeakserver as a widget in your wordpress-sidebar.
 
 == Description ==
 
-Adds a sidebar widget to display Guido van Biemen's (aka MrGuide@NL) Teamspeak Display Preview Release 3 (GPL) and AjaxCore 1.2.2 from http://ajaxcore.sourceforge.net
+Adds a sidebar widget to display Guido van Biemen's (aka MrGuide@NL) Teamspeak Display Preview Release 3 (GPL) and uses [AjaxCore 1.2.2]http://ajaxcore.sourceforge.net to refresh it.
 
 It is deployed on [my blog](http://www.gehirnfurz.com/tsviewerwidget/), for reference.
 
@@ -26,5 +26,5 @@ It is deployed on [my blog](http://www.gehirnfurz.com/tsviewerwidget/), for refe
 
 == Screenshots ==
 
-1. AddThis options configuration
-2. AddThis running widget
+1. TSViewerWidget options configuration
+2. TSViewerWidget running widget
