@@ -1,0 +1,30 @@
+#teamspeakdisplay  img { border: 0px; }
+#teamspeakdisplay table 
+{
+	border-collapse: collapse;
+	border-spacing: 0px;
+	margin:0px;
+}
+#teamspeakdisplay td {
+	font: 6.5pt arial, verdana,helvetica;
+	padding: 0px;
+	white-space: nowrap;
+	vertical-align: top;
+}
+#teamspeakdisplay td.teamspeakserver { padding-left: 3px; }
+#teamspeakdisplay td.teamspeakchannel {padding-left: 3px; }
+#teamspeakdisplay td.teamspeaksubchannel { padding-left: 3px; }
+#teamspeakdisplay td.teamspeakplayer { padding-left: 3px; }
+#teamspeakdisplay a.teamspeakserver 
+{
+	font: 7pt arial, verdana,helvetica;
+	text-decoration: none;
+}
+#teamspeakdisplay a.teamspeakchannel {
+	font: 7pt arial, verdana,helvetica;
+	text-decoration: none;
+}
+#teamspeakdisplay a.teamspeaksubchannel {
+	font: 7pt arial, verdana,helvetica;
+	text-decoration: none;
+}
