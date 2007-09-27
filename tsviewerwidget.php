@@ -13,7 +13,7 @@ Date: 2007, September, 26
 define('TSW_ABSOLUTEPATH', get_bloginfo('wpurl').'/wp-content/plugins/tsviewerwidget');
 define('TSW_RELATIVEPATH', '/wp-content/plugins/tsviewerwidget');
 define('TSW_WIDGETTITLE', 'TS-Viewer');
-define('TSW_WIDGETVERSION', 'v1.1 (beta)');
+define('TSW_WIDGETVERSION', 'v1.1');
 define('TSW_WIDGETNAME', 'TS-Viewer Widget');
 define('TSW_WIDGETREFRESH', '30000');
 define('TSW_CSSPATH', TSW_ABSOLUTEPATH.'/tsviewerwidget.css');
