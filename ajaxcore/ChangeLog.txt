@@ -1,0 +1,15 @@
+v1.2.2
+	+Fixed bug when getting the value of a var using $this->request['variableName'],please use this->getValue("variableName") instead
+	+Added getValue method
+
+v1.2.1
+	+Added Inline bindings, this new schema allows to attach an AJAX event directly into the definition of the HTML object and allows subsequent bindings upon new content is placed.
+	+New method setOutputHeaders prevents output PHP error "Cannot modify header information - headers already sent by xxx" when not using template engine.
+	+PHP Custom Errors are now triggered upon illegal bindings, with parameters sets to empty or illegal values.
+	+More methods for common things like setting outputting JavaScript code to set up location, windows title.
+	+Fixed error upon setting unescaped strings.
+	+Compatibility with previous versions of AjaxCore.
+	+Updated helpdocs to reflect new changes.
+	+Added this file for quick reference.
+	+Added Licence file to package.
+	
